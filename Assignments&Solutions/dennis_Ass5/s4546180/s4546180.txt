@@ -1,0 +1,22 @@
+Name: Mark van Gelder (s4546180)
+Name: Awend Dozky (s4566025)
+s4566025        A.Dozky@student.ru.nl
+Assignment: Homework Assignment 5
+Date Submitted: Thursday, 7 December 2017 15:15:35 o'clock CET
+Current Grade: 6.5
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: Assignment_5 Awend Dozky s4566025 and Mark van Gelder s4546180.ipynb
+	Filename: Homework Assignment 5_s4546180_attempt_2017-12-07-15-15-35_Assignment_5 Awend Dozky s4566025 and Mark van Gelder s4546180.ipynb
+
+Feedback:
+
+5.2.3: Confidence is not the problem, but support.
+5.3.1.2: The Lift is p(B|A)/P(B), I guess you mixed up conf (a -> b) = p(b|a) with p(a|b)
+5.3.2: The values for the interest factor are incorrect 

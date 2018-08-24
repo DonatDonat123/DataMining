@@ -1,0 +1,21 @@
+Name: Rudo Brus (s4362276)
+Name: JeroenBrus (s4122143)
+Assignment: Homework Assignment 6
+Date Submitted: Monday, 8 January 2018 10:53:52 o'clock CET
+Current Grade: 2
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: JeroenBrus_s4122143_RudoBrus_s4362276.ipynb
+	Filename: Homework Assignment 6_s4362276_attempt_2018-01-08-10-53-52_JeroenBrus_s4122143_RudoBrus_s4362276.ipynb
+
+Feedback:
+
+6.1.1: Error rate is 1-accuracy. 5 is not always the best number of neighbors
+6.1.2: task not finished
+6.1.3 and rest: Missing	

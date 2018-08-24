@@ -1,0 +1,21 @@
+Name: Lukas Wilmink (s4802551)
+Name: MickDoldersum (s4574362)
+Assignment: Homework Assignment 6
+Date Submitted: Monday, 8 January 2018 09:32:07 o'clock CET
+Current Grade: 5
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: LukasWilmink_s4802551_MickDoldersum_s4574362_assignment6.ipynb
+	Filename: Homework Assignment 6_s4802551_attempt_2018-01-08-09-32-07_LukasWilmink_s4802551_MickDoldersum_s4574362_assignment6.ipynb
+
+Feedback:
+
+6.1.1: Cross Validation Part Missing.
+6.1.2-6.1.4: Missing
+6.2.3-5: You're doing a train-test split but no 10-fold cross validation.

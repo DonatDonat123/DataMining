@@ -1,0 +1,21 @@
+Name: Bas Heuver (s4635302)
+Assignment: Homework Assignment 6
+Date Submitted: Monday, 8 January 2018 01:45:53 o'clock CET
+Current Grade: 9
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+Bas Heuver,
+
+s4635302
+
+Files:
+	Original filename: Assignment_6.ipynb
+	Filename: Homework Assignment 6_s4635302_attempt_2018-01-08-01-45-53_Assignment_6.ipynb
+
+Feedback:
+
+6.2.3: Your test-classification error is incorrect.
+6.2.4/5: As far as I can see, you actually didn't change the number of units (which would be changing one value in your code). I account it as a typo and substract only 0.5 points in total

@@ -1,0 +1,24 @@
+Name: Niek Janssen (s4297091)
+Name: Tiko Huizinga (s4460898)
+Assignment: Homework Assignment 6
+Date Submitted: Monday, 8 January 2018 10:54:20 o'clock CET
+Current Grade: 2.5
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: TikoHuizinga_s4460898_NiekJanssen_s4297091.ipynb
+	Filename: Homework Assignment 6_s4297091_attempt_2018-01-08-10-54-20_TikoHuizinga_s4460898_NiekJanssen_s4297091.ipynb
+
+Feedback:
+
+6.1.1: Forgot to calculate accuracy and error-rate. 
+6.1.1: Choosing k=1 is like cheating, because you classify each data-point with its own true class. You should use a Train-Test split. I didn't substract any points for this.
+
+6.1.2: "Plot the cross-validation average classification error as a function of k for k=1,..,40k=1,..,40.". But your results are correct.
+6.1.3: Missing
+6.2.2ff: Missing

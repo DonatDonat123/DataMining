@@ -1,0 +1,18 @@
+Name: Niels van Nistelrooij (s4713648)
+Assignment: Homework Assignment 5
+Date Submitted: Monday, 11 December 2017 09:44:40 o'clock CET
+Current Grade: 8.5
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+Niels van Nistelrooij; s4713648
+
+Files:
+	Original filename: NielsvanNistelrooij_s4713648.ipynb
+	Filename: Homework Assignment 5_s4713648_attempt_2017-12-11-09-44-40_NielsvanNistelrooij_s4713648.ipynb
+
+Feedback:
+
+5.3.1: Proof missing

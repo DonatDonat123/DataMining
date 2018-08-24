@@ -1,0 +1,22 @@
+Name: Mick van Hulst (s1013954)
+Assignment: Homework Assignment 5
+Date Submitted: Saturday, 9 December 2017 22:24:24 o'clock CET
+Current Grade: 8.5
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: Mick_van_Hulst_1013954_assignment_5_data_mining.ipynb
+	Filename: Homework Assignment 5_s1013954_attempt_2017-12-09-22-24-24_Mick_van_Hulst_1013954_assignment_5_data_mining.ipynb
+
+Feedback:
+
+5.2.3: The problem is not the confidence, but the support
+5.3.1.4: From p(b)/p(b) - p(a, b)/p(b) > p(~a) 
+	   to p(b) - p(a, b)/p(b) > p(~a)
+	doesn't make sense, but I let it count as a typo. Correct proof.
+5.3.2.3: The interest factor is incorrect for all tables.

@@ -1,0 +1,24 @@
+Name: Emma oude Kempers (s4420020)
+Name: Samuel Buijs (s4780302)
+Assignment: Homework Assignment 6
+Date Submitted: Monday, 8 January 2018 10:49:32 o'clock CET
+Current Grade: 8.5
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+Samuel Buijs s4780302
+
+Emma Oude Kempersr s4420020
+
+Files:
+	Original filename: Assignment_6(1).ipynb
+	Filename: Homework Assignment 6_s4420020_attempt_2018-01-08-10-49-32_Assignment_6(1).ipynb
+
+Feedback:
+
+Hand in the notebook (and nothing else) named as follows: StudentName1_snumber_StudentName2_snumber.ipynb
+6.1.2: Uncompleted
+6.2.3: Get Train and Test-Error
+6.2.5: There are drawbacks of too many units, e.g overfitting 

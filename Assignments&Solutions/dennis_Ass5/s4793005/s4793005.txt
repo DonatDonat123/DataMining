@@ -1,0 +1,19 @@
+Name: Richard Li (s4793005)
+Assignment: Homework Assignment 5
+Date Submitted: Monday, 11 December 2017 02:00:01 o'clock CET
+Current Grade: 8
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: RichardLi_s4793005_Assignment5.ipynb
+	Filename: Homework Assignment 5_s4793005_attempt_2017-12-11-02-00-01_RichardLi_s4793005_Assignment5.ipynb
+
+Feedback:
+
+5.2.3: Confidence is not the problem, but support.
+5.3.1.4: A proof, proofs that the statement holds for any values. So inserting values only proofs that the statement holds true in one out of all cases.

@@ -1,0 +1,19 @@
+Name: Bram Pol (s4815521)
+Assignment: Homework Assignment 5
+Date Submitted: Monday, 11 December 2017 10:10:31 o'clock CET
+Current Grade: 8
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: BramPol_s4815521.ipynb
+	Filename: Homework Assignment 5_s4815521_attempt_2017-12-11-10-10-31_BramPol_s4815521.ipynb
+
+Feedback:
+
+5.2.3: Confidence is not the problem, but support.
+5.3.1: Proof is missing

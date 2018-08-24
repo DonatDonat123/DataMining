@@ -1,0 +1,24 @@
+Name: Melle Starke (s4792696)
+Name: D Anthes (s4767799)
+Assignment: Homework Assignment 5
+Date Submitted: Monday, 11 December 2017 10:41:14 o'clock CET
+Current Grade: 9
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: Assignment_5.zip
+	Filename: Homework Assignment 5_s4792696_attempt_2017-12-11-10-41-14_Assignment_5.zip
+
+Feedback:
+Maybe the upload of the grades won't work, because you didn't give me the full name of D. Anthes. In the case that only Melle got a grade, please write me an E-Mail with the full-name and student number again.
+Hand in the notebook (and nothing else) named as follows: StudentName1_snumber_StudentName2_snumber.ipynb
+
+5.3.1.2: The Lift is p(B|A)/P(B), I guess you mixed up conf (a -> b) = p(b|a) with p(a|b)
+5.3.1.4: Very nice proof
+
+Your notebook was nicely structured and easy to read.

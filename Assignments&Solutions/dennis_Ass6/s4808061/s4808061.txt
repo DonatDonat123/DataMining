@@ -1,0 +1,23 @@
+Name: Marit Hagens (s4808061)
+Name: Rianne Margot Koelewijn (s4796268)
+
+Assignment: Homework Assignment 6
+Date Submitted: Sunday, 7 January 2018 17:56:45 o'clock CET
+Current Grade: 10
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+Assignment 6 from Rianne-Margot Koelewijn (s4796268) and Marit Hagens (s4808061).
+
+Files:
+	Original filename: Rianne-MargotKoelewijn_s4796268_MaritHagens_s4808061.ipynb
+	Filename: Homework Assignment 6_s4808061_attempt_2018-01-07-17-56-45_Rianne-MargotKoelewijn_s4796268_MaritHagens_s4808061.ipynb
+
+Feedback:
+
+6.1.1: Choosing k=1 is like cheating, because you classify each data-point with its own true class. You should use a Train-Test split.
+I didn't substract any points for this.
+
+

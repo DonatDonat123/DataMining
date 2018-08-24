@@ -1,0 +1,24 @@
+Name: Robert Frowein (s4425960)
+Name: Britt van Gemert (s4555740)
+s4555740        B.vanGemert@student.ru.nl
+Assignment: Homework Assignment 5
+Date Submitted: Tuesday, 5 December 2017 16:21:23 o'clock CET
+Current Grade: 9
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: 5-BrittvanGemert_s4555740_RobertFrowein_s4425960.ipynb
+	Filename: Homework Assignment 5_s4425960_attempt_2017-12-05-16-21-23_5-BrittvanGemert_s4555740_RobertFrowein_s4425960.ipynb
+
+Feedback:
+
+5.2.2: Explanation should be more elaborate
+5.2.3: Confidence is not the problem, but support.
+5.2.4: "However, the support would only be 3" --> Support can't be higher than 1.
+
+5.3.1.4: Very nice and elaborate proof.

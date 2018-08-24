@@ -1,0 +1,20 @@
+Name: Luca Parolo (s1009497)
+Assignment: Homework Assignment 5
+Date Submitted: Sunday, 10 December 2017 18:13:54 o'clock CET
+Current Grade: 8
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: Luca_Parolo_s1009497.ipynb
+	Filename: Homework Assignment 5_s1009497_attempt_2017-12-10-18-13-54_Luca_Parolo_s1009497.ipynb
+
+Feedback:
+
+5.1.2: Explanation correct, except "...strong association between Physics and itslef..."
+5.2.4: Very good explanation
+5.3.1.2: The Lift is p(B|A)/P(B), I guess you mixed up conf (a -> b) = p(b|a) with p(a|b)

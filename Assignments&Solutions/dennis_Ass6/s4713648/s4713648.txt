@@ -1,0 +1,18 @@
+Name: Niels van Nistelrooij (s4713648)
+Assignment: Homework Assignment 6
+Date Submitted: Monday, 8 January 2018 10:56:01 o'clock CET
+Current Grade: 10
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+Niels van Nistelrooij; s4713648
+
+Files:
+	Original filename: NielsvanNistelrooij_s4713648.ipynb
+	Filename: Homework Assignment 6_s4713648_attempt_2018-01-08-10-56-01_NielsvanNistelrooij_s4713648.ipynb
+
+Feedback: 
+
+6.2.1.1: When using a linear activation function the problem reduces back to a single-layer perceptron.

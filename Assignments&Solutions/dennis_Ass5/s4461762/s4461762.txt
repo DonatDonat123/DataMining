@@ -1,0 +1,23 @@
+Name: Koen Timmermans (s4461762)
+Name: MargotAlbers (s4455843)
+Assignment: Homework Assignment 5
+Date Submitted: Thursday, 7 December 2017 10:23:00 o'clock CET
+Current Grade: 8
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: MargotAlbers_s4455843_KoenTimmermans_s4461762.ipynb
+	Filename: Homework Assignment 5_s4461762_attempt_2017-12-07-10-23-00_MargotAlbers_s4455843_KoenTimmermans_s4461762.ipynb
+
+Feedback:
+
+5.1.2: You forgot to comment about Rule #1
+5.2.3: Answer should have been more elaborate
+5.3.1.3: Didn't make conclusions from lift<1
+5.3.1.4: Try to keep notation clear. Also content-wise the last step is incorrect.
+5.3.2: Conclusion should be more elaborate

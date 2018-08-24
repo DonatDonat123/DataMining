@@ -1,0 +1,24 @@
+Name: Karcie Snoeijen (s4713672)
+Name: Hortense Verhoeven (s4562119)
+s4562119        H.Verhoeven@student.ru.nl
+Assignment: Homework Assignment 5
+Date Submitted: Monday, 11 December 2017 09:04:21 o'clock CET
+Current Grade: 7
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: Assignment_5 Hortense Verhoeven & Karcie Snoeijen.ipynb
+	Filename: Homework Assignment 5_s4713672_attempt_2017-12-11-09-04-21_Assignment_5 Hortense Verhoeven & Karcie Snoeijen.ipynb
+
+Feedback: 
+Hand in the notebook (and nothing else) named as follows: StudentName1_snumber_StudentName2_snumber.ipynb
+
+5.2.2: "It is logical that return of the jedi and star wars are associated, but toy story is kind of a weird addition.": In this case you should explain, why this was returned as a strong association, despite of being weird in your eyes.
+5.2.3: Confidence is not the problem, but support.
+5.3.1: Proof is missing
+5.3.2: Phi-coefficient table 2 is incorrect; Conclusion is missing

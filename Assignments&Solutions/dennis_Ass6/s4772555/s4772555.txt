@@ -1,0 +1,19 @@
+Name: Wiske Houtsma (s4772555)
+Name: Jochem Wermeij (s4468902)
+Assignment: Homework Assignment 6
+Date Submitted: Sunday, 7 January 2018 23:13:26 o'clock CET
+Current Grade: 9.5
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: Jochem_Vermeij_s4468902_Wiske_Houtsma_s4772555_assignment_6.ipynb
+	Filename: Homework Assignment 6_s4772555_attempt_2018-01-07-23-13-26_Jochem_Vermeij_s4468902_Wiske_Houtsma_s4772555_assignment_6.ipynb
+
+Feedback: 
+
+6.2.3-5: Missclassification-error needs to be a value between 0 and 1. I think you forgot to divide it by the number of data points.

@@ -1,0 +1,20 @@
+Name: Vera Tukke (s4766970)
+Name: Fu Rianne Veens (s4792424)
+Assignment: Homework Assignment 5
+Date Submitted: Thursday, 7 December 2017 16:08:42 o'clock CET
+Current Grade: 7.5
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: Fu-Rianne_Veens_s4792424_Vera_Tukke_s4766970.ipynb
+	Filename: Homework Assignment 5_s4766970_attempt_2017-12-07-16-08-42_Fu-Rianne_Veens_s4792424_Vera_Tukke_s4766970.ipynb
+
+Feedback:
+
+5.3.1: Proof is missing
+5.3.2: The results for the interest factor are incorrect.

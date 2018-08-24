@@ -1,0 +1,21 @@
+Name: Luuk Arts (s4396863)
+Assignment: Homework Assignment 5
+Date Submitted: Monday, 11 December 2017 03:25:47 o'clock CET
+Current Grade: 9.5
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: Luuk_Arts_s4396863_Assignment5.ipynb
+	Filename: Homework Assignment 5_s4396863_attempt_2017-12-11-03-25-47_Luuk_Arts_s4396863_Assignment5.ipynb
+
+Feedback:
+
+5.3.1.4: The step from P(b)−P(a,b)1−P(a)>P(b)P(b)−P(a,b)1−P(a)>P(b)
+		    to P(b)−P(a,b)1−P(a)>P(b)−P(a)P(b)1−P(a)
+ is not clear in the proof. Also note that P(a,b) is only equal to P(a)P(b) if a and b are independent of each other, which is in general not the case.
+

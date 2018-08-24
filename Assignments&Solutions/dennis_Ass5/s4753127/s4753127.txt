@@ -1,0 +1,21 @@
+Name: Paul Heldens (s4753127)
+Name: Ralph van Eerdt (s4800702)
+s4800702        R.vanEerdt@student.ru.nl
+Assignment: Homework Assignment 5
+Date Submitted: Monday, 11 December 2017 10:47:50 o'clock CET
+Current Grade: 7.5
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: Paul Heldens - s4753127 & Ralph van Eerdt - S4800702 .ipynb
+	Filename: Homework Assignment 5_s4753127_attempt_2017-12-11-10-47-50_Paul Heldens - s4753127 & Ralph van Eerdt - S4800702 .ipynb
+
+Feedback:
+
+5.3.1: If you use abbrevations like P1, P2 etc, than you have to specify them somewhere. Also just by enumerating properties, you don't conclude whether the association is good or not; Proof is missing
+5.3.2: Also describe/interprete what it means, if e.g values are increasing for different measures.

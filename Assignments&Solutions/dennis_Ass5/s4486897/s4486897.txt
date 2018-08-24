@@ -1,0 +1,19 @@
+Name: Joep Bernards (s4486897)
+Name: Joep Veldhoven (s4456556)
+Assignment: Homework Assignment 5
+Date Submitted: Monday, 11 December 2017 10:01:03 o'clock CET
+Current Grade: 9.5
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: JoepBernards_s4486897_JoepVeldhoven_s4456556.ipynb
+	Filename: Homework Assignment 5_s4486897_attempt_2017-12-11-10-01-03_JoepBernards_s4486897_JoepVeldhoven_s4456556.ipynb
+
+Feedback:
+
+5.2.3: Answer should be more elaborate

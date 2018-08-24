@@ -1,0 +1,20 @@
+Name: Jochem Versteeg (s4804295)
+Name: Bas Thijssen (s4842278)
+Assignment: Homework Assignment 5
+Date Submitted: Monday, 11 December 2017 11:02:44 o'clock CET
+Current Grade: 7.5
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: Jochem_Versteeg_s4804295_Bas_Thijssen_s48422278.ipynb
+	Filename: Homework Assignment 5_s4804295_attempt_2017-12-11-11-02-44_Jochem_Versteeg_s4804295_Bas_Thijssen_s48422278.ipynb
+
+Feedback:
+
+5.2.3: Relation to the support was missing.
+5.3.2: Odds-ration table 2 is incorrect; More results are missing, also conclusion.

@@ -1,0 +1,19 @@
+Name: Paul Heldens (s4753127)
+Name: Ralph van Eerdt (s4800702)
+Assignment: Homework Assignment 6
+Date Submitted: Sunday, 7 January 2018 21:54:44 o'clock CET
+Current Grade: 5.5
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: Paul Heldens - s4753127 & Ralph van Eerdt - S4800702 .ipynb
+	Filename: Homework Assignment 6_s4753127_attempt_2018-01-07-21-54-44_Paul Heldens - s4753127 & Ralph van Eerdt - S4800702 .ipynb
+
+Feedback: 
+
+6.1.1: The classification part is missing.

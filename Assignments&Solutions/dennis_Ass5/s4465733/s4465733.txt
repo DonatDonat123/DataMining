@@ -1,0 +1,24 @@
+Name: Wouter Mobach (s4465733)
+Name: Victor van der Gevel (s4630807)
+s4630807        V.vandeGevel@student.ru.nl
+Assignment: Homework Assignment 5
+Date Submitted: Sunday, 10 December 2017 14:48:06 o'clock CET
+Current Grade: 7
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: s4465733_WouterMobach_s4630807_VictorvanderGevel.ipynb
+	Filename: Homework Assignment 5_s4465733_attempt_2017-12-10-14-48-06_s4465733_WouterMobach_s4630807_VictorvanderGevel.ipynb
+
+Feedback:
+
+5.2.3: "people dont tend to buy more than three items": This is not the reason
+5.2.4: Your answer is vague/incorrect.
+5.3.1.1/2: The formulars you use are correct but the results are wrong: 2/3 != 0.8
+5.3.1.4: The notation of your proof is insufficient. 
+5.3.2: Conclusion should be more elaborate. The presentation of your results is really hard to read.

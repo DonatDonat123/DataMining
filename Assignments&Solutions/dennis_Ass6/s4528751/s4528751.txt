@@ -1,0 +1,21 @@
+Name: Laura Philipse (s4528751)
+Assignment: Homework Assignment 6
+Date Submitted: Monday, 8 January 2018 10:55:08 o'clock CET
+Current Grade: 3
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: LauraPhilipse_s4528751.ipynb
+	Filename: Homework Assignment 6_s4528751_attempt_2018-01-08-10-55-08_LauraPhilipse_s4528751.ipynb
+
+Feedback:
+
+6.1.1: Not completed	
+6.1.2: Not completed
+6.1.3: Not completed
+6.2.3-5: K-fold cross validation missing; Interpretation vague
